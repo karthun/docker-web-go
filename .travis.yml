@@ -1,1 +1,5 @@
 language: go
+
+notifications:
+  slack: dockerheroes:LphV7VbP3AuoNgY2q5xjJ5Az
+  
